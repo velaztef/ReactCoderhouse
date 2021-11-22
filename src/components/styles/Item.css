@@ -1,0 +1,15 @@
+.product-card {
+    text-align: center;
+  }
+  
+  .product-card__image {
+    width: 320px;
+    height: 320px;
+  }
+  
+  .product-card__name {
+    padding-top: 2rem;
+    font-size: 1.6rem;
+    color:white;
+  }
+  

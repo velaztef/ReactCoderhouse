@@ -1,0 +1,12 @@
+.product{
+    width: 100%;
+    height: auto;
+    background-position: 67%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .productSlide {
+    height: auto;
+    background-image: url(../../img/novaback.jpeg);
+    filter: grayscale(50%);
+  }

@@ -1,0 +1,50 @@
+.cart{
+    width: 100%;
+    height: auto;
+    background-position: 67%;
+    background-size: cover;
+    background-repeat: no-repeat;
+  }
+  .cartSlide {
+    height: auto;
+    background-image: url(../../img/novaback.jpeg);
+    filter: grayscale(50%);
+  }
+
+
+  .productCart{
+      color: rgb(243, 240, 240);
+      margin: 1rem;
+      padding: 1rem;
+      font-size: 1rem;
+      font-weight: bold;
+      background-color: rgba(0, 0, 0, 0.384);
+  }
+
+  .qty-display{
+    display: inline-block;
+  }
+
+  .cartForm{
+    padding:3rem;
+  }
+
+  .message{
+    padding: 4rem;
+    color:white;
+    height: 60vh;
+  }
+
+  .message_contact{
+    padding: 10rem;
+    color:white;
+    height: 100vh;
+  }
+
+  .message_contact h2{
+background-color: grey;
+  }
+
+  .message_contact p{
+    background-color: grey;
+  }
